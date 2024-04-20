@@ -1,2 +1,2 @@
 # Articles
-Repository for store articles data and comments
+Repository for store articles and comments
